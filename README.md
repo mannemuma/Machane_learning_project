@@ -43,6 +43,6 @@ To check remote url
 '''
 git remote -v
 
-all changes 
+
 
 
